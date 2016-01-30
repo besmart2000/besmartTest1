@@ -10,7 +10,7 @@ namespace gitapp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("test1");
+            Console.WriteLine("hellow world");
             Console.ReadKey();
         }
     }
